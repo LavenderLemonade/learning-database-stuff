@@ -1,0 +1,39 @@
+shoe_id,shoe_name,manufacturer,shoe_type,shoe_size,price,quantity
+1,Yeezy Boost 350 V2,Adidas,Sneaker,10,250.00,10
+2,Yeezy Boost 350 V2,Adidas,Sneaker,11,250.00,10
+3,Yeezy Boost 350 V2,Adidas,Sneaker,12,250.00,10
+4,Yeezy Boost 350 V2,Adidas,Sneaker,9,250.00,10
+5,Yeezy Boost 350 V2,Adidas,Sneaker,8,250.00,10
+6,Ultraboost 19.5 DNA,Adidas,Sneaker,9,190.00,5
+7,Ultraboost 19.5 DNA,Adidas,Sneaker,10,190.00,5
+8,Ultraboost 19.5 DNA,Adidas,Sneaker,11,190.00,5
+9,Ultraboost 19.5 DNA,Adidas,Sneaker,8,190.00,5
+10,Terrex Free Hiker 2,Adidas,Hiking,10,230.00,15
+11,Terrex Free Hiker 2,Adidas,Hiking,11,230.00,15
+12,Terrex Free Hiker 2,Adidas,Hiking,9,230.00,15
+13,Terrex Free Hiker 2,Adidas,Hiking,12,230.00,15
+14,Air Vapormax 2021 FK,Nike,Sneaker,10,210.00,9
+15,Air Vapormax 2021 FK,Nike,Sneaker,11,210.00,15
+16,Air Vapormax 2021 FK,Nike,Sneaker,8,210.00,20
+17,Dunk High Retro,Nike,Sneaker,11,125.00,10
+18,Dunk High Retro,Nike,Sneaker,12,125.00,7
+19,Dunk High Retro,Nike,Sneaker,10,125.00,3
+20,Dunk High Retro,Nike,Sneaker,9,125.00,12
+21,Skate SK-8 Hi,Vans,Sneaker,10,90.00,10
+22,Skate SK-8 Hi,Vans,Sneaker,11,90.00,12
+23,Skate SK-8 Hi,Vans,Sneaker,12,90.00,8
+24,Skate SK-8 Hi,Vans,Sneaker,9,90.00,7
+25,Blazer Mid 77 Vintage,Nike,Sneaker,10,105.00,10
+26,Blazer Mid 77 Vintage,Nike,Sneaker,11,105.00,8
+27,Blazer Mid 77 Vintage,Nike,Sneaker,12,105.00,15
+28,Twice Mary Jane,Steve Madden,Pump,7,109.95,10
+29,Twice Mary Jane,Steve Madden,Pump,8,109.95,2
+30,Twice Mary Jane,Steve Madden,Pump,9,109.95,6
+31,Twice Mary Jane,Steve Madden,Pump,10,109.95,12
+32,Cloud 5,ON,Running,10,169.99,10
+33,Cloud 5,ON,Running,11,169.99,8
+34,Cloud 5,ON,Running,12,169.99,9
+38,Mexico Rinkan,Onitsuka Tiger,Boot,10,140.00,17
+39,Mexico Rinkan,Onitsuka Tiger,Boot,11,140.00,13
+40,Mexico Rinkan,Onitsuka Tiger,Boot,12,140.00,8
+41,Mexico Rinkan,Onitsuka Tiger,Boot,8,140.00,33
