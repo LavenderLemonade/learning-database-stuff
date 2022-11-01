@@ -10,7 +10,7 @@ namespace FiguringOutDatabaseStuff
 
             IShoeDao shoeDao = new ShoeSqlDao(@"Server=.\SQLEXPRESS;Database=ShoeStore;Trusted_Connection=True;");
 
-
+            System.Console.WriteLine(shoeDao.GetShoe(2).ShoeName);
 
         }
     }

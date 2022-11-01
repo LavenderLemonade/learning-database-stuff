@@ -1,0 +1,6 @@
+C:\Users\Student\Sam Stuff\learning-database-stuff\FiguringOutDatabaseStuff\FiguringOutDatabaseStuff\bin\Debug\ConsoleApplication.exe
+C:\Users\Student\Sam Stuff\learning-database-stuff\FiguringOutDatabaseStuff\FiguringOutDatabaseStuff\bin\Debug\ConsoleApplication.pdb
+C:\Users\Student\Sam Stuff\learning-database-stuff\FiguringOutDatabaseStuff\FiguringOutDatabaseStuff\obj\x86\Debug\DatabaseStuff.csproj.AssemblyReference.cache
+C:\Users\Student\Sam Stuff\learning-database-stuff\FiguringOutDatabaseStuff\FiguringOutDatabaseStuff\obj\x86\Debug\DatabaseStuff.csproj.CoreCompileInputs.cache
+C:\Users\Student\Sam Stuff\learning-database-stuff\FiguringOutDatabaseStuff\FiguringOutDatabaseStuff\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Student\Sam Stuff\learning-database-stuff\FiguringOutDatabaseStuff\FiguringOutDatabaseStuff\obj\x86\Debug\ConsoleApplication.pdb
