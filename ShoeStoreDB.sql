@@ -1,4 +1,4 @@
---setting up this ShoeStore Database
+----setting up this ShoeStore Database
 
 --USE master;
 --GO
@@ -12,7 +12,7 @@
 --GO
 
 
---let's start adding in the tables
+----let's start adding in the tables
 
 --BEGIN TRANSACTION;
 
@@ -57,8 +57,21 @@
 
 --COMMIT;
 
-SELECT * FROM shoe
+--SELECT * FROM shoe
+
+--SELECT * FROM customer
+
+--INSERT INTO customer (last_name,first_name,isMember)
+--VALUES ('Elliott','Sam', 0), ('Friedmann', 'Sean', 1), ('Brown', 'Eliot', 0), ('Jackson', 'Christian', 0), ('Long', 'Peri',0),('Fayomi', 'Temilolu', 0), ('Garcia','Maria', 0)
 
 
+
+--INSERT INTO transactions (customer_id, shoe_id, date_bought, isReturn)
+--VALUES (1, 22, '2022-10-21', 0), (1,38, '2021-11-05', 0), (2, 12, '2022-06-20',0), (3,8,'2020-06-11',0),(3,17,'2021-07-16',0),(3,26,'2022-09-12',0),(4,29,'2022-10-18',1),(5,32,'2022-02-22',0),(5,30,'2022-04-20',0),(6,21,'2022-02-16',0),(7,8,'2022-10-02',0)
+
+--SELECT * FROM customer
+--JOIN transactions ON customer.customer_id = transactions.customer_id
+--JOIN shoe ON transactions.shoe_id = shoe.shoe_id
+--WHERE first_name= 'Sam'
 
 
