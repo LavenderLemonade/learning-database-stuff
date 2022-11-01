@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using FiguringOutDatabaseStuff.Models;
 using System.Data.SqlClient;
 
-namespace FiguringOutDatabaseStuff.DAO
+namespace DatabaseStuff
 {
     public class ShoeSqlDao : IShoeDao
     {
@@ -39,6 +38,26 @@ namespace FiguringOutDatabaseStuff.DAO
                 }
             }
             return shoe;
+        }
+
+        public List<string> GetInventory()
+        {
+            List<string> allShoes = new List<string>();
+
+            using (SqlConnection conn = new SqlConnection(connectiongString))
+            {
+                conn.Open();
+
+                SqlCommand cmd = new SqlCommand("SELECT DISTINCT shoe_name FROM shoe", conn);
+                SqlDataReader reader = cmd.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string shoe_name = Convert.ToString(reader["shoe_name"]);
+                    allShoes.Add(shoe_name);
+                }
+            }
+            return allShoes;
         }
 
         private Shoe MakeShoeFromSQL(SqlDataReader reader) //reading from the database into objects in C#

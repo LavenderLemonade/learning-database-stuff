@@ -46,6 +46,7 @@
     <Compile Include="DAO\ShoeSqlDao.cs" />
     <Compile Include="Models\Shoe.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ShoeStoreCLI.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>
