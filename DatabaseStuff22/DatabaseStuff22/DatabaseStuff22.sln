@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseStuff22", "DatabaseStuff22\DatabaseStuff22.csproj", "{7C55CB15-5702-4F42-894D-A27FA1BF1981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoeStoreApi22", "ShoeStoreApi22\ShoeStoreApi22.csproj", "{DCD30A58-596F-49DD-BEB1-DE6584B9F07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C55CB15-5702-4F42-894D-A27FA1BF1981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C55CB15-5702-4F42-894D-A27FA1BF1981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C55CB15-5702-4F42-894D-A27FA1BF1981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C55CB15-5702-4F42-894D-A27FA1BF1981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD30A58-596F-49DD-BEB1-DE6584B9F07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD30A58-596F-49DD-BEB1-DE6584B9F07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD30A58-596F-49DD-BEB1-DE6584B9F07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD30A58-596F-49DD-BEB1-DE6584B9F07E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9753265C-9292-4475-B868-12249786749F}
+	EndGlobalSection
+EndGlobal
