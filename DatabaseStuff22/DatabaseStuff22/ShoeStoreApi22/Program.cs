@@ -6,7 +6,7 @@ namespace ShoeStoreApi22
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            string connString = builder.Configuration.GetConnectionString(@"Server=.\SQLEXPRESS;Database=ShoeStore;Trusted_Connection=True");
+            string connString = @"Server=.\SQLEXPRESS;Database=ShoeStore;Trusted_Connection=True";
 
             // Add services to the container.
 
