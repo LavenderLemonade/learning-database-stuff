@@ -8,10 +8,6 @@ C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\Database
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\ShoeStoreApi22.runtimeconfig.json
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\ShoeStoreApi22.dll
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\ShoeStoreApi22.pdb
-C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\System.Data.SqlClient.dll
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
@@ -25,7 +21,6 @@ C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\Database
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\obj\Debug\net6.0\ShoeStoreApi22.AssemblyInfoInputs.cache
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\obj\Debug\net6.0\ShoeStoreApi22.AssemblyInfo.cs
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\obj\Debug\net6.0\ShoeStoreApi22.csproj.CoreCompileInputs.cache
-C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\obj\Debug\net6.0\ShoeStoreApi22.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\obj\Debug\net6.0\ShoeStoreApi22.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Sam\Desktop\Sam_Folder\learning-database-stuff\DatabaseStuff22\DatabaseStuff22\ShoeStoreApi22\obj\Debug\net6.0\staticwebassets.development.json

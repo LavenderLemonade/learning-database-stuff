@@ -13,7 +13,7 @@ namespace ShoeStoreApi22
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+           
             builder.Services.AddTransient<IShoeDao>(sp => new ShoeSqlDao(connString));
 
             var app = builder.Build();
@@ -21,8 +21,7 @@ namespace ShoeStoreApi22
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
-                app.UseSwagger();
-                app.UseSwaggerUI();
+              
             }
 
             app.UseHttpsRedirection();
